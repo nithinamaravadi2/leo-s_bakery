@@ -1,0 +1,118 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+.home1-img{
+    height:500px;
+
+}
+.Blood-container{
+    background-color: white;
+    border-radius: 20px;
+    border-style: solid;
+   
+}
+
+
+.navbar-logo{
+    height: 65px;
+    width: 250px;
+}
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.banner1-container{
+    background-color:#76BA9e;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+.banner-container{
+    background-color:#76BA9e;
+    
+    
+}
+.banner-text{
+    font-family: poppins;
+    font-size:35px;
+    color: violet;
+
+}
+
+.follow-us-section {
+  background-color: #76BA99;
+}
+.follow-us-section-heading {
+  text-align: center;
+  color: #183b56;
+  font-family: "Roboto";
+  font-size: 28px;
+  font-weight: 700;
+}
+.follow-us-icon-container {
+  background-color: #faf7e8;
+  width: 80px;
+  height: 80px;
+  border-radius: 40px;
+  margin: 15px;
+  padding-top: 22px;
+  padding-bottom: 14px;
+  padding-right: 16px;
+  padding-left: 22px;
+}
+.icon {
+  color: #76BA99;
+  font-size: 35px;
+}
+.foot{
+  background-attachment: fixed;
+}
+
+.explore-about-section {
+    background-image: url('https://res.cloudinary.com/djwnm70zp/image/upload/v1696831195/Mine/Screenshot_128_okenei.png');
+    background-size: cover;
+    height: 100vh;
+  }
+  .about-us-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+  }
+  .about-item-image2 {
+    height:90%;
+    border-radius: 16px;
+    border-style: solid;
+    background-color: white;
+  }
+  .about-item-image
+  {
+     height: fit-content;
+     border-radius: 16px;
+    border-style: solid;
+    background-color: white;
+  }
+  .about-card-title {
+    color: red;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 24px;
+  }
+  .about-item-link {
+    color:  white;
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: 500;
+  }
+  .about-item-card {
+    border-radius: 16px;
+    /*background-image: url('https://t3.ftcdn.net/jpg/04/42/64/28/360_F_442642890_DAnMfRrIcLgPBWEPP5rJOWk2jgjuUA31.jpg');*/
+    background-size: cover;
+    height: fit-content;
+    background-color:black;
+  }
+  .about-us-card-below{
+    
+    border-radius: 10px;
+  }
+  
